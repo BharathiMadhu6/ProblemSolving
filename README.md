@@ -1,5 +1,5 @@
 # ProblemSolving
-My implementation of &amp; usage of data structures to solve problems
+My implementation &amp; usage of data structures to solve problems
 
 Contents :
 1. Binary Trees
