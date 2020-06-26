@@ -14,3 +14,12 @@ Contents :
    1.9 Merging 2 Binary Trees
    1.10 Preorder of a Binary Tree (Iterative solution)
    1.11 If the Binary Trees is symmetric 
+   
+  
+2. Heap
+   2.1 Kth smallest element 
+   2.2 Implementation of max heap
+   2.3 To merge k sorted lists
+   2.4 Implementation of min heap
+   2.5 To sort characters by frequency of occurence
+   2.6 To retrieve the top k elements
