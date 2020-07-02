@@ -23,3 +23,10 @@ Contents :
    2.4 Implementation of min heap
    2.5 To sort characters by frequency of occurence
    2.6 To retrieve the top k elements
+   
+3. Single Linked List
+   3.1 Delete a node in linked list
+   3.2 Basic operations of linked list (add at tail, add at head, print)
+   3.3 Merge two sorted linked lists 
+   3.4 If palindrome
+   3.5 Reverse a linked list
