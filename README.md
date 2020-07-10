@@ -30,3 +30,7 @@ Contents :
    3.3 Merge two sorted linked lists 
    3.4 If palindrome
    3.5 Reverse a linked list
+   
+4. String manipulation   ->
+   4.1 Number of subarrays in a binary array whose sum equals K 
+   4.2 Number of subarrays whose product equals K
